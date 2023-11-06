@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-06T12:19:58 EET" name="Default suite" finished-at="2023-11-06T12:20:28 EET" duration-ms="30784">
+    <groups>
+    </groups>
+    <test started-at="2023-11-06T12:19:58 EET" name="Default test" finished-at="2023-11-06T12:20:28 EET" duration-ms="30784">
+      <class name="myPackage.MyFirstTestCASES">
+        <test-method is-config="true" signature="TheSetUp()[pri:0, instance:myPackage.MyFirstTestCASES@436813f3]" started-at="2023-11-06T12:19:58 EET" name="TheSetUp" finished-at="2023-11-06T12:19:58 EET" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TheSetUp -->
+        <test-method signature="testOneApp()[pri:0, instance:myPackage.MyFirstTestCASES@436813f3]" started-at="2023-11-06T12:19:58 EET" name="testOneApp" finished-at="2023-11-06T12:20:28 EET" duration-ms="30751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOneApp -->
+        <test-method is-config="true" signature="PostTesting()[pri:0, instance:myPackage.MyFirstTestCASES@436813f3]" started-at="2023-11-06T12:20:28 EET" name="PostTesting" finished-at="2023-11-06T12:20:28 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostTesting -->
+      </class> <!-- myPackage.MyFirstTestCASES -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
